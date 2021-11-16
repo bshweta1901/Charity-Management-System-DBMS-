@@ -1,2 +1,2 @@
-# Charity-Management-System-DBMS-
+# Charity-Management-System-DBMS
 E-r Diagram,DFD Diagram
